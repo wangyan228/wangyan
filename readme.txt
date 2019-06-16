@@ -1,1 +1,2 @@
 study git
+git status
