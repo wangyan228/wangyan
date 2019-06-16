@@ -3,3 +3,4 @@ git status
 develop in the feature1 branch
 modify first
 modify second
+modify therd
