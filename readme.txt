@@ -15,3 +15,4 @@ modify in dir latest
 modify after second
 modify second
 6.17 1
+6.17 2
